@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FA25_1060_Dietrich.iml" filepath="$PROJECT_DIR$/.idea/FA25_1060_Dietrich.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InteractiveGreeter/InteractiveGreeter.iml" filepath="$PROJECT_DIR$/InteractiveGreeter/InteractiveGreeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" filepath="$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/VarPlay/VarPlay.iml" filepath="$PROJECT_DIR$/HelloWorld/VarPlay/VarPlay.iml" />
     </modules>
   </component>
 </project>
