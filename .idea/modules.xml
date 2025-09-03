@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/InteractiveGreeter/InteractiveGreeter.iml" filepath="$PROJECT_DIR$/InteractiveGreeter/InteractiveGreeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" filepath="$PROJECT_DIR$/TemperatureConversion/TemperatureConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/VarPlay/VarPlay.iml" filepath="$PROJECT_DIR$/VarPlay/VarPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3_IO/Week3_IO.iml" filepath="$PROJECT_DIR$/Week3_IO/Week3_IO.iml" />
     </modules>
   </component>
 </project>

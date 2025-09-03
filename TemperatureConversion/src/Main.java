@@ -14,7 +14,7 @@ public class Main {
 
         double tempF = userInput.nextDouble();
 
-        double celConversion =  (double) 5 /9;
+        double celConversion =  (double) 5/9;
 
         double tempC = (tempF-32) * celConversion;
         BigDecimal value = new BigDecimal(tempC);
