@@ -1,0 +1,14 @@
+CSC1060CodingExam1/.gitattributes
+CSC1060CodingExam1/.gitignore
+CSC1060CodingExam1/gradle.properties
+CSC1060CodingExam1/gradlew
+CSC1060CodingExam1/gradlew.bat
+CSC1060CodingExam1/settings.gradle
+CSC1060CodingExam1/app/build.gradle
+CSC1060CodingExam1/app/src/main/java/csc1060codingexam1/Accumulator.java
+CSC1060CodingExam1/app/src/main/java/csc1060codingexam1/BeverageSelector.java
+CSC1060CodingExam1/app/src/main/java/csc1060codingexam1/Divider.java
+CSC1060CodingExam1/app/src/main/java/csc1060codingexam1/MessagePrinter.java
+CSC1060CodingExam1/gradle/libs.versions.toml
+CSC1060CodingExam1/gradle/wrapper/gradle-wrapper.jar
+CSC1060CodingExam1/gradle/wrapper/gradle-wrapper.properties
