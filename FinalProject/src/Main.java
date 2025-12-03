@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     
-    // Method to clear the console
+    /*
     public static void clearConsole() {
         try {
             String os = System.getProperty("os.name");
@@ -18,13 +18,12 @@ public class Main {
                 System.out.println();
             }
         }
-    }
+    }*/
     
-    // Method to pause and wait for user input before clearing
     public static void pauseBeforeClear(Scanner scanner) {
         System.out.println("\nPress Enter to continue...");
         scanner.nextLine();
-        clearConsole();
+        //clearConsole();
     }
     
     public static void main(String[] args) {
@@ -117,7 +116,7 @@ public class Main {
                     pauseBeforeClear(scanner);
                 }
                 case 5 -> {
-                    clearConsole();
+                    //clearConsole();
                     System.out.println("Thanks for playing!");
                     playing = false;
                 }

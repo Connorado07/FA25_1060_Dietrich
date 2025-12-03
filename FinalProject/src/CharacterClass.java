@@ -54,7 +54,7 @@ public abstract class CharacterClass {
             if (rolls[i] < min) min = rolls[i];
         }
         
-        return total - min; // Drop the lowest roll
+        return total - min;
     }
     
     protected void applyRacialBonuses() {

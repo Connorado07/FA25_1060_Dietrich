@@ -14,7 +14,7 @@ public abstract class Race {
     }
 }
 
-// Human.java - Human race subclass
+
 class Human extends Race {
     public Human() {
         this.raceName = "Human";
@@ -32,7 +32,6 @@ class Human extends Race {
     }
 }
 
-// Elf.java - Elf race subclass
 class Elf extends Race {
     public Elf() {
         this.raceName = "Elf";
@@ -45,7 +44,6 @@ class Elf extends Race {
     }
 }
 
-// Dwarf.java - Dwarf race subclass
 class Dwarf extends Race {
     public Dwarf() {
         this.raceName = "Dwarf";
@@ -59,7 +57,6 @@ class Dwarf extends Race {
 
 }
 
-// Halfling.java - Halfling race subclass
 class Halfling extends Race {
     public Halfling() {
         this.raceName = "Halfling";
