@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     
-    /*
+    /*          not working at the moment.
     public static void clearConsole() {
         try {
             String os = System.getProperty("os.name");
